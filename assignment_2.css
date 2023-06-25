@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+h1{
+    font-size:37px;
+
+   
+}
+bold{
+    position: relative;
+    left:17px;
+   
+    
+}
+#s1{
+    color:blue;
+}
+#s2{
+    font-size: 30px;
+}
+.a1{
+    background-image: url(sunset-1373171_1920.jpg) ;
+    height: 90vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left:10% ;
+    padding-right: 10%;
+}
+.a2{
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+nav ul li{
+    display: inline;
+    padding-left: 20px;
+    position: relative;
+    left:150px;
+    color:antiquewhite;
+}
+nav button{
+    background:rgb(220, 72, 72);
+    border:none;
+    border-radius: 20px;
+    padding: 12px 25px;
+    color:aliceblue;
+    font-weight: bold;
+    position: relative;
+    left:15px;
+}
+.a3{
+    padding:80px 500px;
+}
+p{
+    color:black;
+    padding-left: 100px;
+}
+
+.a3 button{
+
+   background-color:rgb(240, 69, 69);
+   padding: 10px 10px;
+   border-radius: 15px;
+   border:none;
+   color:white;
+   font-weight: bold;
+   position: relative;
+   left:105px;
+}
+
+.a11{
+    position: relative;
+    top: 70px;
+    text-align: center;
+    font-style: italic;
+}
+.con1{
+   position: relative;
+   right:50px;
+   font-family:'Times New Roman', Times, serif;
+   font-size: small;
+}
+span{
+    color:rgb(13, 13, 134);
+      
+}
+.a22{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 0px 0px 0px;
+}
+
+.img2{
+    height: 200px;
+    width: 350px;
+    position: relative;
+    left:40px;
+   
+}
+.innerclass{
+   padding-top: 20px;
+}
+
+#about a{
+    text-align: center;
+    position: relative;
+    left:170px;
+}
+#action a{
+    text-align: center;
+    position: relative;
+    left:170px;
+}
+
+.a33{
+    background-color: rgb(26, 25, 25);
+    height: 200px;
+   
+   
+}
+.content{
+    background-color:rgb(75, 22, 106);
+    height:70px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row;
+    
+    
+}
+.content a{
+    width:35px;
+    height: 30px;
+    border-radius: 50%;
+    margin:12px 5px;
+    text-align: center;
+   
+    padding-top:10px;
+}
+#facebook {
+    background: #224ba4;
+    color: white;
+
+   
+  }
+#twitter{
+   
+        background: #55ACEE;
+        color: white;
+      
+}
+
+#linkedin{
+    background: #007bb5;
+    color: white;
+}
+
+#tube{
+    background: #bb0000;
+    color: white;
+}
+
+.content2 p{
+    color:rgb(200, 191, 191);
+    
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    right:4%;
+    padding-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
